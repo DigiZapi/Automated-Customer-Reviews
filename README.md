@@ -104,8 +104,9 @@ Notes for Contributors
 ----------------------
 
 - Keep edits minimal and localized. This repository is notebook-first for teaching; avoid over-abstracting.
-- If you find repeated logic (e.g., preprocessing or prompt building), consider extracting a tiny helper module under `week6/coding/Automated-Customer-Reviews/` and importing it in the notebook. If you do, update any dependent cells and add a quick example cell demonstrating usage.
+- If you find repeated logic (e.g., preprocessing or prompt building), consider extracting a tiny helper module under `/Automated-Customer-Reviews/` and importing it in the notebook. If you do, update any dependent cells and add a quick example cell demonstrating usage.
 
 # Automated-Customer-Reviews
 second-last-project
+
 
