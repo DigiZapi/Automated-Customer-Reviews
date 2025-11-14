@@ -33,7 +33,7 @@ pip install -U sentence-transformers
 jupyter lab
 ```
 
-Open `week6/coding/Automated-Customer-Reviews/data_categorization.ipynb` and execute cells top-to-bottom.
+Open `Automated-Customer-Reviews/data_categorization.ipynb` and execute cells top-to-bottom.
 
 Headless Execution (CI or Batch)
 --------------------------------
@@ -44,7 +44,7 @@ You can also execute the notebook non-interactively using nbconvert:
 pip install nbconvert
 jupyter nbconvert \
 	--to notebook \
-	--execute week6/coding/Automated-Customer-Reviews/data_categorization.ipynb \
+	--execute /Automated-Customer-Reviews/data_categorization.ipynb \
 	--ExecutePreprocessor.timeout=600
 ```
 
@@ -108,3 +108,4 @@ Notes for Contributors
 
 # Automated-Customer-Reviews
 second-last-project
+
