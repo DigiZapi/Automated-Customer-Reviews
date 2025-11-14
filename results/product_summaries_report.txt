@@ -1,0 +1,236 @@
+====================================================================================================
+PRODUCT REVIEW SUMMARIES - FLAN-T5-LARGE with LoRA (50-WORD SUMMARIES)
+Top 3 Best + Worst Product from Each Cluster
+====================================================================================================
+
+Total Products: 14
+Selection: Top 3 best (by popularity) + 1 worst (by rating) from each cluster
+Generation Date: 2025-11-14 11:23:04
+Model: google/flan-t5-large (~780M params) with LoRA on cuda
+Target Summary Length: 50 words
+====================================================================================================
+
+
+====================================================================================================
+CLUSTER 0 (2 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon
+Cluster: 0
+Average Rating: 4.88 stars
+Review Count: 8 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.666
+Predicted Sentiment: positive
+
+SUMMARY:
+Kindle Fire hd Charging Cable is a must-have accessory for the kindle fire. It's a great way to keep the device plugged in while you sleep, read, or listen to music. It also works great as a backup for the office or to take with you on the go.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon 5W USB Official OEM Charger and Power Adapter for Fire Tablets and Kindle eReaders
+Cluster: 0
+Average Rating: 4.44 stars
+Review Count: 401 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.557
+Predicted Sentiment: positive
+
+SUMMARY:
+Good quality, fast charging, and a small size. It's a little expensive for what it is, but it's still a good buy. The plug seems to be working well. I think it is the connection in my kindle that is the problem. I would definitely recommend this product.
+
+
+====================================================================================================
+CLUSTER 1 (4 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon Kindle Paperwhite - eBook reader - 4 GB - 6 monochrome Paperwhite - touchscreen - Wi-Fi - black
+Cluster: 1
+Average Rating: 4.77 stars
+Review Count: 3176 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.724
+Predicted Sentiment: positive
+
+SUMMARY:
+This kindle is a great choice for people who want a lightweight, easy-to-use device. It's also a good choice for those who don't want to spend a lot of money on a new device every time it is upgraded. The only complaint I have is that the home page is changed every time a device is upgraded
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Kindle Voyage E-reader, 6 High-Resolution Display (300 ppi) with Adaptive Built-in Light, PagePress Sensors, Wi-Fi - Includes Special Offers,
+Cluster: 1
+Average Rating: 4.73 stars
+Review Count: 580 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.641
+Predicted Sentiment: positive
+
+SUMMARY:
+Kindle Voyage is a great device, but it's pricey for what it is. It's the only kindle that automatically adjusts the brightness of the screen at certain light levels, and that's a big plus for me. I've been using this kindle for a couple of weeks now, and I'm very
+
+----------------------------------------------------------------------------------------------------
+Product #3 - RANK #3 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Echo (White)
+Cluster: 1
+Average Rating: 4.70 stars
+Review Count: 10 reviews
+Popularity Rank in Cluster: #3
+Popularity Score: 0.618
+Predicted Sentiment: positive
+
+SUMMARY:
+The Kindle Fire is a small, lightweight tablet that can be used for reading, watching videos, and playing games. It's also a great choice for people on the go, as it's small and lightweight. It has a 4.3-inch touchscreen display and a built-in microphone and speaker.
+
+----------------------------------------------------------------------------------------------------
+Product #4 - WORST RATED
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon
+Cluster: 1
+Average Rating: 2.46 stars
+Review Count: 13 reviews
+Popularity Rank in Cluster: #11
+Popularity Score: 0.000
+Predicted Sentiment: positive
+
+SUMMARY:
+great value. this charger 9w rapid charger is as described. it works well with both my fire 7.0 8.9 hdxs. a bonus is the angled usb connector, which fits over the origami case making for a stable and secure connection. great deal. although the description states that this will work on my kindle fire
+
+
+====================================================================================================
+CLUSTER 3 (4 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Echo (White)
+Cluster: 3
+Average Rating: 4.67 stars
+Review Count: 6619 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.790
+Predicted Sentiment: positive
+
+SUMMARY:
+It's a lot of fun, but it's also a bit of a hassle to set up and use. It can play music, play timers, and set alarms. It also can play radio stations and play music from your music library or from prime music.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon Fire Tv
+Cluster: 3
+Average Rating: 4.71 stars
+Review Count: 5056 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.758
+Predicted Sentiment: positive
+
+SUMMARY:
+The Amazon Fire TV works better and faster than the Fire Stick. Every aspect of this product is better, watching every show or movie starts up fast and is much clearer. Really like the voice commands, including commands outside the typical, movie tv expectation like the weather haven used it so i can have everything in one device and it does that flawlessly.
+
+----------------------------------------------------------------------------------------------------
+Product #3 - RANK #3 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon Echo
+Cluster: 3
+Average Rating: 4.53 stars
+Review Count: 636 reviews
+Popularity Rank in Cluster: #3
+Popularity Score: 0.588
+Predicted Sentiment: positive
+
+SUMMARY:
+The Amazon Echo is easy to use and fun to use. the Amazon Echo Tap is a nice interesting device...but it did not fit my needs. i also have the amazon echo and absolutely love it. so what the difference? a. you have to walk up the the tap to touch it this is not as convenient and not as fun as the talking to
+
+----------------------------------------------------------------------------------------------------
+Product #4 - WORST RATED
+----------------------------------------------------------------------------------------------------
+Product Name: Echo (White)
+Cluster: 3
+Average Rating: 3.12 stars
+Review Count: 8 reviews
+Popularity Rank in Cluster: #5
+Popularity Score: 0.183
+Predicted Sentiment: positive
+
+SUMMARY:
+Avoid certified refurbished fire tvs unless you're willing to pay a bit more for a quality product. Avoid roku 4s and xs if you want 5.1 audio on netflix. Don't buy refurbished products from Amazon.
+
+
+====================================================================================================
+CLUSTER 4 (4 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Fire Tablet, 7 Display, Wi-Fi, 8 GB - Includes Special Offers, Magenta
+Cluster: 4
+Average Rating: 4.45 stars
+Review Count: 10966 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.849
+Predicted Sentiment: positive
+
+SUMMARY:
+Good basic tablet for checking email, web browsing, and reading ebooks. Easy to set up and use, plus the price was reasonable. Good inexpensive tablet for someone that does not use it that often. Purchased for my toddler. best investment yet. also added the protection plan. very good.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Brand New Amazon Kindle Fire 16gb 7 Ips Display Tablet Wifi 16 Gb Blue
+Cluster: 4
+Average Rating: 5.00 stars
+Review Count: 7 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.700
+Predicted Sentiment: positive
+
+SUMMARY:
+Great tablet for college students and those looking for a low-cost alternative to paperback books, the Kindle Fire 6th gen is a great choice for those who want a tablet that's easy to use and has a long battery life. It's also a good choice if you're on a budget.
+
+----------------------------------------------------------------------------------------------------
+Product #3 - RANK #3 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Fire Tablet, 7 Display, Wi-Fi, 8 GB - Includes Special Offers, Black
+Cluster: 4
+Average Rating: 5.00 stars
+Review Count: 3 reviews
+Popularity Rank in Cluster: #3
+Popularity Score: 0.700
+Predicted Sentiment: positive
+
+SUMMARY:
+The fire tv stick is a great addition to the hdtv set-top box. It's easy to set up, works well, and has a polished interface. The interface and streaming on the stick is much faster than the amazon app built into my htv. Amazon Instant Video loads, fast forwards, and re
+
+----------------------------------------------------------------------------------------------------
+Product #4 - WORST RATED
+----------------------------------------------------------------------------------------------------
+Product Name: Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case
+Cluster: 4
+Average Rating: 3.67 stars
+Review Count: 6 reviews
+Popularity Rank in Cluster: #20
+Popularity Score: 0.332
+Predicted Sentiment: positive
+
+SUMMARY:
+This leather case is a great fit for the kindle touch, and it's a perfect fit for a first-class product like the Kindle Touch. It's also a good fit for other kindle products, such as the k2, k3, and k3.
+
+
+====================================================================================================
+END OF REPORT
+====================================================================================================
