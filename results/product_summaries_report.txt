@@ -1,0 +1,236 @@
+====================================================================================================
+PRODUCT REVIEW SUMMARIES - FLAN-T5-LARGE with LoRA (50-WORD SUMMARIES)
+Top 3 Best + Worst Product from Each Cluster
+====================================================================================================
+
+Total Products: 14
+Selection: Top 3 best (by popularity) + 1 worst (by rating) from each cluster
+Generation Date: 2025-11-14 14:09:55
+Model: google/flan-t5-large (~780M params) with LoRA on cuda
+Target Summary Length: 50 words
+====================================================================================================
+
+
+====================================================================================================
+CLUSTER 0 (2 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon
+Cluster: 0
+Average Rating: 4.88 stars
+Review Count: 8 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.666
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of this product. Rating: 4.5/5. Reviewers also praise the convenience of using this cable with the kindle fire hd. Overall, customers are satisfied with the product and recommend it to friends and family. Reviews: 4.3/5. Customer rating: 4.7/5.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon 5W USB Official OEM Charger and Power Adapter for Fire Tablets and Kindle eReaders
+Cluster: 0
+Average Rating: 4.44 stars
+Review Count: 401 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.557
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the product. Rating: 4.6/5. Customer satisfaction: 4.7/5. Reviewers praise the product's durability and usability. Overall, customers are satisfied with the product and recommend it to friends and family. Reviews: 4.5/5. User rating: 4.8/5.
+
+
+====================================================================================================
+CLUSTER 1 (4 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon Kindle Paperwhite - eBook reader - 4 GB - 6 monochrome Paperwhite - touchscreen - Wi-Fi - black
+Cluster: 1
+Average Rating: 4.77 stars
+Review Count: 3176 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.724
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the screen. Rating: 4.5/5. Customer satisfaction: 4.6/5. Reviewer: 5.0/5. Overall: 4.7/5. User reviews: 4.3/5. Product review: 4.4/5. Buyer beware: 4.2/5. Reviews: 4.8/5.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Kindle Voyage E-reader, 6 High-Resolution Display (300 ppi) with Adaptive Built-in Light, PagePress Sensors, Wi-Fi - Includes Special Offers,
+Cluster: 1
+Average Rating: 4.73 stars
+Review Count: 580 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.641
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the screen. Rating: 4.3/5. Reviewers praise the brightness. Overall, customers are satisfied with the device and recommend it. Reviews: 4.5/5. Customer ratings: 4.6/5. Summary: Customers like the brightness of the screen and the ease with which it adjusts to light levels.
+
+----------------------------------------------------------------------------------------------------
+Product #3 - RANK #3 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Echo (White)
+Cluster: 1
+Average Rating: 4.70 stars
+Review Count: 10 reviews
+Popularity Rank in Cluster: #3
+Popularity Score: 0.618
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the tablet's quality, usability, battery life, and overall satisfaction. Rating: 4.5/5. Reviewers also praise the device's battery life and ease of use. Overall, the tablet is a good choice for users looking for a small, lightweight device.
+
+----------------------------------------------------------------------------------------------------
+Product #4 - WORST RATED
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon
+Cluster: 1
+Average Rating: 2.46 stars
+Review Count: 13 reviews
+Popularity Rank in Cluster: #11
+Popularity Score: 0.000
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the charger. Rating: 4.3/5. Customer satisfaction: 4.5/5. Overall: 4.7/5. Reviewers note that the charger does not work on the kindle fire hdx 8.9 due to a lack of a wattage.
+
+
+====================================================================================================
+CLUSTER 3 (4 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Echo (White)
+Cluster: 3
+Average Rating: 4.67 stars
+Review Count: 6619 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.790
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the device. Rating: 4.3/5. Customer satisfaction: 4.7/5. Reviewer: Overall, a good device for people who don't need a lot of voice recognition. Customer rating: 4.6/5. Reviews: 4.5/5. User reviews: 4.4/5.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon Fire Tv
+Cluster: 3
+Average Rating: 4.71 stars
+Review Count: 5056 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.758
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the device. They also like the voice commands. Overall, satisfied with the product. Rating: 4.7/5. Reviewers also praise the speed and responsiveness of the remote. Reviews: 4.5/5. Customer ratings: 4.6/5. Overall rating: 4.8/5.
+
+----------------------------------------------------------------------------------------------------
+Product #3 - RANK #3 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Amazon Echo
+Cluster: 3
+Average Rating: 4.53 stars
+Review Count: 636 reviews
+Popularity Rank in Cluster: #3
+Popularity Score: 0.588
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the device's usability. They note that the audio quality isn't as good as the Amazon Echo. They also note that it's difficult to connect to public wi-fi. Overall, customers are satisfied with the product. Rating: 4.7/5. (Source: Amazon)
+
+----------------------------------------------------------------------------------------------------
+Product #4 - WORST RATED
+----------------------------------------------------------------------------------------------------
+Product Name: Echo (White)
+Cluster: 3
+Average Rating: 3.12 stars
+Review Count: 8 reviews
+Popularity Rank in Cluster: #5
+Popularity Score: 0.183
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the product. Rating: 4.4/5. Customer satisfaction: 4.7/5. Reviews: 4.5/5. Overall rating: 4.6/5. Reviewers: 4.3/5. 5.0/5. Recommendation: 4.2/5. 5.8/5.
+
+
+====================================================================================================
+CLUSTER 4 (4 products: Top 3 Best + Worst)
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+Product #1 - RANK #1 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Fire Tablet, 7 Display, Wi-Fi, 8 GB - Includes Special Offers, Magenta
+Cluster: 4
+Average Rating: 4.45 stars
+Review Count: 10966 reviews
+Popularity Rank in Cluster: #1
+Popularity Score: 0.849
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the device. Rating: 4.7/5. Reviewers praise the battery life. Overall, customers are satisfied with the tablet's performance. Reviews: 4.3/5. Customer rating: 4.5/5. User reviews: 4.4/5. Ratings: 4.6/5.
+
+----------------------------------------------------------------------------------------------------
+Product #2 - RANK #2 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Brand New Amazon Kindle Fire 16gb 7 Ips Display Tablet Wifi 16 Gb Blue
+Cluster: 4
+Average Rating: 5.00 stars
+Review Count: 7 reviews
+Popularity Rank in Cluster: #2
+Popularity Score: 0.700
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the screen, battery life, and usability. Rating: 4.7/5. Reviewers say it's a great choice for college students and people who want to save money on books. Overall, customers are satisfied with the tablet. Rating is 4.5/5. Customer ratings: 4.8/5.
+
+----------------------------------------------------------------------------------------------------
+Product #3 - RANK #3 (TOP)
+----------------------------------------------------------------------------------------------------
+Product Name: Fire Tablet, 7 Display, Wi-Fi, 8 GB - Includes Special Offers, Black
+Cluster: 4
+Average Rating: 5.00 stars
+Review Count: 3 reviews
+Popularity Rank in Cluster: #3
+Popularity Score: 0.700
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the user interface. Rating: 4.7/5. Reviewers say it's a good deal for Amazon Prime members. Customer ratings: 4.5/5. Average customer rating: 4.6/5. Customer reviews: 4.3/5. Overall: 4.4/5. Reviews: 5.0/5.
+
+----------------------------------------------------------------------------------------------------
+Product #4 - WORST RATED
+----------------------------------------------------------------------------------------------------
+Product Name: Fire Kids Edition Tablet, 7 Display, Wi-Fi, 16 GB, Green Kid-Proof Case
+Cluster: 4
+Average Rating: 3.67 stars
+Review Count: 6 reviews
+Popularity Rank in Cluster: #20
+Popularity Score: 0.332
+Predicted Sentiment: positive
+
+SUMMARY:
+Customers praise the quality of the product. They also praise the design. Overall, customers are satisfied with the product and recommend it. Rating: 4.7/5. (Source: Amazon) Reviewers say that the case is well-made and fits the kindle touch very well. Customer ratings: 4.5/5.
+
+
+====================================================================================================
+END OF REPORT
+====================================================================================================
